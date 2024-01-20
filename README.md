@@ -8,4 +8,3 @@ El preproyecto lo he desarrollado yo misma al igual que el diseño de la activid
 Para completar este proyecto, hemos tenido un grupo de trabajo para ultimar detalles técnicos y apoyo al desarrollo.
 
 Cada pista para descifrar tendrá su propio repositorio por logística para la yincana. 
-

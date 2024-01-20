@@ -4,8 +4,8 @@ let canvas = document.querySelector("canvas");
 let ctx = canvas.getContext("2d"); 
 let width = canvas.width = window.innerWidth;
 let height = canvas.height = window.innerHeight;
-let str = ["B", " ", "I", " ", "L"," ",  "B"," ",  "O"," ",  "S", " ", "T"," ",  "A"," ",  "C", " ", "K"];
-let matrix = str.sort();
+let str = "BILBOSTACK BILBOSTACK";
+let matrix = str.split("");
 let font = 5;
 let col = width / font;
 let arr = [];
@@ -40,9 +40,6 @@ const draw = () => {
 };
 
 
-const handleResize = () => {
-    col = Math.floor(window.innerWidth / font);
-};
+setInterval(draw, 20);
 
-setInterval(draw, 15);
-window.addEventListener("resize", handleResize);
+window.addEventListener("resize", () => location.reload());
