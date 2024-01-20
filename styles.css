@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family:  system-ui,/* , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,*/ Arial, sans-serif; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: black;
+    color: #ABDB2A;
+}
+
+.bienvenida {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 1rem;
+    background-color: black;
+    padding: 0.5rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 1.5rem #ABDB2A;
+}
+
+.textoinicial {
+    margin: 1.5rem;
+    background-color: #000000;
+    padding: 1.5rem;
+    border-radius: 0.8rem;
+    text-align: center;
+    box-shadow: 0 0 1.5rem #ABDB2A;
+}
+
+.textoFinal {
+    margin: 1rem;
+
+}
+
+.textofinal-contenedor {
+    margin: 1rem;
+    background-color: #000000;
+    padding: 0.65rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 1.5rem #ABDB2A;
+}
+
+p {
+    font-size: larger;
+}
+
+.container {
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+input {
+    height: 2rem;
+    border-radius: 0.5rem;
+    width: 15rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    align-items: center;
+}
+
+label {
+    margin-bottom: 0.3rem;
+}
+
+button {
+    color: #000000;
+    background-color: #ABDB2A;
+    border-color: #f4ffd7;
+    border-radius: 0.8rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+#resultado {
+    margin-top: 2rem;
+}
+
+.textoFinal {
+    width: 97%;
+    font-size: larger;
+    height: auto;
+}
+
+.tf {
+    margin: 1rem;
+}
+
+.botonfinal {
+    box-shadow: 0 0 1rem #ABDB2A;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 1.8rem;
+}
+#btnIrAOtraPagina {
+    box-shadow: 0 0 1rem #ABDB2A;
+    display: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+
+}
+
+.botonE {
+    font-size: x-large;
+    color: white;
+}
+
+.botonP {
+    background-color: #ABDB2A;
+    box-shadow: 0 0 1.5rem #ABDB2A;
+}
+.divbotonarcoiris {
+    display: flex;
+    justify-content: center;
+}
+.Final {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.imglogo {
+    max-width: 10rem;
+    height: auto;
+    background-color: #000000;
+    padding: 0.5rem;
+    border-radius: 0.8rem;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 0.8rem;
+    margin-bottom: 1rem;
+}
+
+canvas{ 
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -4;
+  }
+
+
+
+
+
+
+
+
+
+.text1 {
+    color: #E129FF;
+}
+
+.text2 {
+    color: #0019FF;
+}
+
+.text3 {
+    color: #00E0FF;
+}
+
+.text4 {
+    color: #21E800;
+}
+
+.text5 {
+    color: #E7D000;
+}
+
+.text6 {
+    color: #FF8A00;
+}
+
+.text7 {
+    color: #EE0000;
+}
+
+.b1 {
+    background-color: #E129FF;
+    box-shadow: 0 0 1.5rem #E129FF;
+}
+
+.b2 {
+    background-color: #0019FF;
+    box-shadow: 0 0 1.5rem #0019FF;
+}
+
+.b3 {
+    background-color: #00E0FF;
+    box-shadow: 0 0 1.5rem #00E0FF;
+}
+
+.b4 {
+    background-color: #21E800;
+    box-shadow: 0 0 1.5rem #21E800;
+}
+
+.b5 {
+    background-color: #E7D000;
+    box-shadow: 0 0 1.5rem #E7D000;
+}
+
+.b6 {
+    background-color: #FF8A00;
+    box-shadow: 0 0 1.5rem #FF8A00;
+}
+
+.b7 {
+    background-color: #EE0000;
+    box-shadow: 0 0 1.5rem #EE0000;
+}
+
