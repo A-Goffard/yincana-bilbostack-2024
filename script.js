@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
             case 'formulario6':
                 return 'No te rindas';
             case 'formulario7':
-                return 'Y el poder del código te acompañará';
+                return 'El poder del código te acompañará';
             default:
                 return '';
         }
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Añade un evento de clic al botón btnIrAOtraPagina
     document.getElementById('btnIrAOtraPagina').addEventListener('click', function () {
         // Redirige a otraPagina.html
-        window.location.href = '/otraPagina.html';
+        window.location.href = "/otraPagina.html";
     });
 
 });
