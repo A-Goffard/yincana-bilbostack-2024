@@ -27,6 +27,14 @@ body {
     box-shadow: 0 0 1.5rem #ABDB2A;
 }
 
+.bienvenida h4 {
+    margin-bottom: 1rem;
+}
+
+.bienvenida h3 {
+    font-size: 2rem;
+}
+
 .textoinicial {
     margin: 1.5rem;
     background-color: #000000;
