@@ -16,7 +16,7 @@ Para completar este proyecto, hemos tenido un grupo de trabajo para ultimar deta
 
 Cada pista para descifrar tendrá su propio repositorio por logística para la yincana. Y además y por la misma razón, se mencionará a las personas encargadas de desarrollas esas pistas en sus respectivos readmes escritos por ellos mismos. 
 
-No voya incluir el desarrollo completo de la yincana aquí pero existe una memoria de todo el proceso del desarrollo. Lo que si puedo incluir, son los links directos a las páginas y repositorios correspondientes de cada pista:
+No voy a incluir el desarrollo completo de la yincana aquí pero existe una memoria de todo el proceso del desarrollo. Lo que si puedo incluir, son los links directos a las páginas y repositorios correspondientes de cada pista:
 
 ##El enlace directo a los códigos de las páginas en mi GitHub:
 
